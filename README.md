@@ -15,11 +15,9 @@ The Metasploit Lab project aimed to establish a controlled environment for simul
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Social Engineering toolkit
+- Kali Linux 
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
@@ -29,4 +27,4 @@ Every screenshot should have some text explaining what the screenshot is about.
 Example below.
 <img width="1300" height="570" alt="Screenshot 2025-12-22 164331" src="https://github.com/user-attachments/assets/bf7bc08c-4d32-4ec0-ba67-f13e82b427b8" />
 
-*Ref 1: Network Diagram*
+*Ref 1: Metasploit capture*
