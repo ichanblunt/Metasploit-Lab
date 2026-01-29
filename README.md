@@ -18,10 +18,11 @@ The Metasploit Lab project aimed to establish a controlled environment for simul
 - Kali Linux 
 
 ## Steps
-open Social Engineering Toolkit
-follow given steps
-find IP adress of victem 
-wait for victems credentials 
+
+- open Social Engineering Toolkit
+- follow given steps
+- find IP adress of victim 
+- wait for victims credentials 
 
 Example below.
 <img width="1300" height="570" alt="Screenshot 2025-12-22 164331" src="https://github.com/user-attachments/assets/bf7bc08c-4d32-4ec0-ba67-f13e82b427b8" />
